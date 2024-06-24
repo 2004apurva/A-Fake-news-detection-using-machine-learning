@@ -1,6 +1,6 @@
-## Fake News Detection with Machine Learning
+# Fake News Detection with Machine Learning
 
-Table of Contents
+##Table of Contents
 
 Introduction
 Features
@@ -11,11 +11,11 @@ Results
 License
 Contact
 
-Introduction
+## Introduction
 
 Fake news detection is a critical task in today's digital age where misinformation can spread rapidly through social media and other online platforms. This project aims to develop a machine learning model to detect fake news using various natural language processing (NLP) techniques.
 
-Features
+## Features
 
 Data preprocessing and cleaning
 Text vectorization (TF-IDF, Count Vectorizer, etc.)
@@ -25,11 +25,11 @@ Deployment-ready model with Flask API
 
 
 
-Dataset
+## Dataset
 
 The dataset used in this project consists of labeled news articles. You can use publicly available datasets such as the Fake News Detection dataset on Kaggle or any other relevant dataset.
 
-Model
+## Model
 
 The following machine learning models have been implemented and evaluated:
 
@@ -42,11 +42,11 @@ The performance of each model is evaluated based on accuracy, precision, recall,
 
 
 
-License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+## Contact
 
 If you have any questions or suggestions, feel free to contact me at apurva162003@gmail.com.
 
