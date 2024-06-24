@@ -1,6 +1,6 @@
 # Fake News Detection with Machine Learning
 
-##Table of Contents
+## Table of Contents
 
 Introduction
 Features
