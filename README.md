@@ -1,15 +1,52 @@
-# VeriNews_A-Fake-news-detection-using-machine-learning
-Workflow of Fake News Prediction using machine learning with python
+## Fake News Detection with Machine Learning
 
-1. News Data in which the the news in cenceptual data the title of the news and the author of that news is there 
+Table of Contents
 
-2. Data Pre Processing in which alot of work is to be done .
-  as the computer is not understanding the conceptual data we have to convert it in numerical or we can say that machine language code.
+Introduction
+Features
+Installation
+Dataset
+Model
+Results
+License
+Contact
 
-3. nextly the dataset it into train test split in this we train our model
+Introduction
 
-4. Nextly we have logistic Regression Model in this we classify based on the binary classification and basically it is of two types either real or fake 
+Fake news detection is a critical task in today's digital age where misinformation can spread rapidly through social media and other online platforms. This project aims to develop a machine learning model to detect fake news using various natural language processing (NLP) techniques.
 
-5. After we trained the model we get the trained logistic regression model we feed the new data in it so that it predict whether the news is real or fake
+Features
 
-I have attached the train.csv file for the dataset that I used in this model of Machine Learning Project.
+Data preprocessing and cleaning
+Text vectorization (TF-IDF, Count Vectorizer, etc.)
+Multiple machine learning models (Logistic Regression, SVM, Random Forest, etc.)
+Model evaluation and selection
+Deployment-ready model with Flask API
+
+
+
+Dataset
+
+The dataset used in this project consists of labeled news articles. You can use publicly available datasets such as the Fake News Detection dataset on Kaggle or any other relevant dataset.
+
+Model
+
+The following machine learning models have been implemented and evaluated:
+
+Logistic Regression
+Support Vector Machine (SVM)
+Random Forest
+Gradient Boosting
+Results
+The performance of each model is evaluated based on accuracy, precision, recall, and F1-score. Detailed results and comparison can be found in the results folder.
+
+
+
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Contact
+
+If you have any questions or suggestions, feel free to contact me at apurva162003@gmail.com.
+
